@@ -1,2 +1,8 @@
 # Myfirst-REPO
-contains info
+contains 
+hello git
+
+
+
+
+
